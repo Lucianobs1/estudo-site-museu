@@ -18,6 +18,10 @@ a:hover{
 }
 
 /*Configuração do logo */
+#logo h1{
+  float: left;
+}
+
 #logo a{
   width: 248px;
   height: 21px;
